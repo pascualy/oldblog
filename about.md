@@ -1,4 +1,4 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+I live in Cambridge, MA and am currently attending MIT in the Leaders for Global Operations program. I grew up in Seattle and studied Computer Science at University of Michigan.
 
